@@ -1,0 +1,12 @@
+{
+    "name": "ccruz/wp_pokemon_shortcode_widget",
+    "description": "Provide shortcodes and widgets with information about Pokémon, images and more",
+    "type": "wordpress-plugin",
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Christian Cruz",
+            "email": "ccruz.ga17@gmail.com"
+        }
+    ]
+}
