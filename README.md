@@ -1,6 +1,6 @@
 # README
 ## Wordpress Plugin: Pokémon Shortcode and Widgets
-Este es un plugin de wordpress para mostrar a través de shortcodes imagenes de pokemon
+This is a wordpress plugin to display through shortcodes images of pokemon
 
 ## How to work
 You can use the shortcodes as follows:
