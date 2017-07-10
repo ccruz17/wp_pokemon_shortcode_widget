@@ -5,30 +5,30 @@ Este es un plugin de wordpress para mostrar a través de shortcodes imagenes de 
 ## How to work
 You can use the shortcodes as follows:
 
-⋅⋅* For normal image
+- For normal image
 ```
 [pokemon id=1]
 ```
 Result:
-[logo]:  https://www.pokemongolab.com/wp-content/plugins/wp_pokemon_shortcode_widget/assets/sprites/pokemon/1.png "Bulbasaur"
+![alt text](https://www.pokemongolab.com/wp-content/plugins/wp_pokemon_shortcode_widget/assets/sprites/pokemon/1.png "Bulbasaur")
 
-⋅⋅* For shiny image
+- For shiny image
 ```
 [pokemon_shiny id=4]
 ```
 Result:
-[logo]:  https://www.pokemongolab.com/wp-content/plugins/wp_pokemon_shortcode_widget/assets/sprites/pokemon/shiny/4.png "Charmander"
+![alt text](https://www.pokemongolab.com/wp-content/plugins/wp_pokemon_shortcode_widget/assets/sprites/pokemon/shiny/4.png "Charmander")
 
-⋅⋅* For model image
+- For model image
 ```
 [pokemon_shiny id=4]
 ```
 Result:
-[logo]:  https://www.pokemongolab.com/wp-content/plugins/wp_pokemon_shortcode_widget/assets/sprites/pokemon/model/7.png "Charmander"
+![alt text]( https://www.pokemongolab.com/wp-content/plugins/wp_pokemon_shortcode_widget/assets/sprites/pokemon/model/7.png "Charmander")
 
 ###Tables of Generations
 
-..* For generation 1
+- For generation 1
 ```
 [pokemon_table gen=1]
 ```
